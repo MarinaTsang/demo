@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ListviewAndRecycleview" />
+            <option value="$PROJECT_DIR$/factory" />
+            <option value="$PROJECT_DIR$/observer" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

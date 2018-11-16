@@ -16,6 +16,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Hashtable;
 import java.util.List;
 
 import butterknife.BindView;
@@ -35,6 +38,10 @@ public class MainActivity extends AppCompatActivity {
 
     private List<String> listViewDatas;
     private List<String> recycleViewDatas;
+
+    new HashMap
+    new Hashtable
+    new HashSet
 
     private AppCompatActivity mActivity;
 

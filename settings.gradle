@@ -1,1 +1,1 @@
-include ':ListviewAndRecycleview'
+include ':ListviewAndRecycleview', ':factory', ':observer'
